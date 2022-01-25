@@ -194,3 +194,5 @@
 8) контекстные антонимы
 9) обращение
 
+![изображение](https://user-images.githubusercontent.com/97444278/150940703-ba494581-09fb-4632-bdd4-b244fcd4b4af.png)
+![изображение](https://user-images.githubusercontent.com/97444278/150940752-df50f050-eaf7-418c-bf92-be1c3536bc3d.png)
