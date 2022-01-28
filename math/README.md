@@ -1,5 +1,5 @@
 # Содержание
-[Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Алгебра) | [Геометрия](https://github.com/vorones/math#Геометрия)
+[Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Алгебра) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия)
 # [Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Содержание)
 ### Первообразная F(x)
 <img src="https://user-images.githubusercontent.com/97444278/149924013-a9157f08-0239-4722-8ec0-3ce8bad4d63d.png" width="350">
@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/97444278/149924252-52237e79-23b2-4f66-a7ff-62f1d103cc96.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924260-bd1c0e28-078e-45b7-852b-4e4b23f3d128.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924274-c1b07600-0d65-446f-99fe-ce36ff7c6356.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924294-ab964311-47a6-4940-809e-fef75c64b4af.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924300-c826c06c-5b06-430b-9284-237de2b981e1.png" width="400">
 
-# [Геометрия](https://github.com/vorones/math#Содержание)
+# [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Содержание)
 ### 2D фигуры 
 <img src="https://user-images.githubusercontent.com/97444278/149924490-f0cdb61d-621a-4b92-8dba-3dfaa8623bd9.png" width="400">
 
