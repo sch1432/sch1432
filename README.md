@@ -12,6 +12,3 @@
 - [ ] https://2022-god.com/plan-sochineniya-po-russkomu-yazyku-ege-v-2022-godu/
 - [ ] https://bingoschool.ru/manual/blog/233/
 - [ ] https://4ege.ru/russkiy/63087-plan-sochinenie-ege-2022-po-russkomu-jazyku.html
-
-# Файлы
-https://1drv.ms/f/s!AhusSLWjGpTDqw3TY64A1Yr0CwHB
