@@ -14,4 +14,4 @@
 - [ ] https://4ege.ru/russkiy/63087-plan-sochinenie-ege-2022-po-russkomu-jazyku.html
 
 # Файлы
-https://dl.uploadgram.me/61f7d2c08b3a8g
+https://1drv.ms/f/s!AhusSLWjGpTDqw3TY64A1Yr0CwHB
