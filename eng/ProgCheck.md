@@ -1,5 +1,6 @@
 # 5
 № | 1 | 2 |
+| --- | --- |
 1 | stained | Would
 2 | roof | don’t have to
 3 | warehouses | mustn’t
