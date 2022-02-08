@@ -1,0 +1,11 @@
+# 5
+1) stained
+2) roof
+3) warehouses
+4) full
+5) run-down
+6) slate
+7) market
+8) drain
+9) rough
+10) capital
