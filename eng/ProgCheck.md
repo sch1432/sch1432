@@ -1,5 +1,5 @@
 # 5
-№ | 1 | 2 |
+№ | Номер 1 | Номер 2 |
 | --- | --- | - |
 1 | stained | Would
 2 | roof | don’t have to
