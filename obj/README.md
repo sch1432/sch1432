@@ -244,6 +244,6 @@
 - Контролировать состояние пострадавшего; 
 - Передать «03».
 
-![a008ec20-1659-4334-8a4a-39671049b9f8](https://user-images.githubusercontent.com/70198995/151675632-a257cef5-62db-49bd-a36e-b53441e5b449.jpg)
+!![a008ec20-1659-4334-8a4a-39671049b9f8](https://user-images.githubusercontent.com/70198995/151675632-a257cef5-62db-49bd-a36e-b53441e5b449.jpg)
 
 [17-ноября-2021.pdf](https://github.com/voron5096/archive/files/7964487/17-.-2021.pdf)
