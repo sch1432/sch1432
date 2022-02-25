@@ -4,7 +4,6 @@
 Даты - https://vpr-ege.ru/ege/1576-ofitsialnoe-raspisanie-ege-2022
 
 
-
 ## Сочинение
 - [ ] https://rusrepet.ru/info/primery-sochineniy-ege/sochinenie-ege-po-novomu--formatu-2021-2022/
 - [ ] https://uchitelya.com/russkiy-yazyk/201782-plan-napisaniya-sochineniya-rassuzhdeniya-ege-2022.html
