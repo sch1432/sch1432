@@ -1,3 +1,9 @@
+https://rus-ege.sdamgia.ru/problem?id=38780
+
+https://math-ege.sdamgia.ru/problem?id=26662
+
+https://math-ege.sdamgia.ru/test?id=44193576
+
 ![image](https://user-images.githubusercontent.com/97444278/152787874-5084061e-1b2c-43dc-958b-560c8ca76e8e.png)
 
 # ЕГЭ
