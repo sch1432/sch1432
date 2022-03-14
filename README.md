@@ -4,6 +4,10 @@
 
 Математика: https://math-ege.sdamgia.ru/test?id=44193576
 
+![image](https://user-images.githubusercontent.com/70198995/158185745-7199f1f9-69b1-40d8-b5c3-72da80e8e69a.png)
+
+![image](https://user-images.githubusercontent.com/70198995/158185936-cbd9f329-a202-4a3d-b310-4ff42d732e89.png)
+
 ![image](https://user-images.githubusercontent.com/97444278/152787874-5084061e-1b2c-43dc-958b-560c8ca76e8e.png)
 
 # ЕГЭ
