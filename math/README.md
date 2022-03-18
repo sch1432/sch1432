@@ -1,4 +1,4 @@
-# Содержание
+# [На главную](https://github.com/sch1432/sch1432)
 [Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Алгебра) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия)
 # [Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Содержание)
 ### Первообразная F(x)
