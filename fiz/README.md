@@ -1,3 +1,5 @@
+# [Матеша](https://github.com/sch1432/sch1432/tree/main/math) | [Физика](https://github.com/sch1432/sch1432)
+
 ![изображение](https://user-images.githubusercontent.com/97444278/149798428-3975de3f-f9cd-4ec5-9311-48f003a9f1c1.png)
 
 ## Темы
