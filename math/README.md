@@ -26,7 +26,7 @@ https://fin-plus.ru/services/deposit/tic.php?deposit_id=1305163
 <img src="https://user-images.githubusercontent.com/97444278/149924490-f0cdb61d-621a-4b92-8dba-3dfaa8623bd9.png" width="400">
 
 ### 3D фигуры
-<img src="https://user-images.githubusercontent.com/97444278/149924347-124c72dc-808d-4bb8-9d9a-46b212633d7f.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924351-4342331f-731b-478f-b003-b8641c3e17fb.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924357-9fe1c1dd-6ded-4ffe-8635-80b5c2e0289e.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924364-f8733337-6648-4c62-ab45-d9b029ec46fb.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924371-f85d2263-e951-4bd2-b465-c25857b2157b.png" width="450">
+<img src="https://user-images.githubusercontent.com/97444278/149924347-124c72dc-808d-4bb8-9d9a-46b212633d7f.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924351-4342331f-731b-478f-b003-b8641c3e17fb.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924357-9fe1c1dd-6ded-4ffe-8635-80b5c2e0289e.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924364-f8733337-6648-4c62-ab45-d9b029ec46fb.png" width="450"><img src="https://user-images.githubusercontent.com/97444278/149924371-f85d2263-e951-4bd2-b465-c25857b2157b.png" width="400">
 
 ### Вектора
 <img src="https://user-images.githubusercontent.com/97444278/149924387-d07ca246-08bf-40f0-823e-1cdf57f8324d.png" width="400">
