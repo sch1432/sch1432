@@ -1,4 +1,4 @@
-# [Матеша](https://github.com/sch1432/sch1432/tree/main/math) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz)
+# [Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Алгебра) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz)
 
 Русский: https://rus-ege.sdamgia.ru/problem?id=38780
 
