@@ -1,5 +1,4 @@
-# [Матеша](https://github.com/sch1432/sch1432) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz)
-[Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Алгебра) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия)
+# [Алгебра](https://github.com/sch1432/sch1432) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz)
 # [Алгебра](https://github.com/sch1432/sch1432/tree/main/math#Содержание)
 ### Первообразная F(x)
 <img src="https://user-images.githubusercontent.com/97444278/149924013-a9157f08-0239-4722-8ec0-3ce8bad4d63d.png" width="350">
