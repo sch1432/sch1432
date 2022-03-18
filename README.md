@@ -1,10 +1,8 @@
 # [Алгебра](https://github.com/sch1432/sch1432/tree/main/math) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz)
 
-Русский: https://rus-ege.sdamgia.ru/problem?id=38780
-
-Математика: https://math-ege.sdamgia.ru/problem?id=26662
-
-Математика: https://math-ege.sdamgia.ru/test?id=44193576
+### Русский: https://rus-ege.sdamgia.ru/problem?id=38780
+### Математика: https://math-ege.sdamgia.ru/problem?id=26662
+### Математика: https://math-ege.sdamgia.ru/test?id=44193576
 
 ![image](https://user-images.githubusercontent.com/70198995/158185745-7199f1f9-69b1-40d8-b5c3-72da80e8e69a.png)
 
