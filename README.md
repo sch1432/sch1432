@@ -1,3 +1,5 @@
+# [Матеша](https://github.com/sch1432/sch1432/tree/main/math) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz)
+
 Русский: https://rus-ege.sdamgia.ru/problem?id=38780
 
 Математика: https://math-ege.sdamgia.ru/problem?id=26662
