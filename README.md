@@ -4,7 +4,7 @@
 ### Математика: https://math-ege.sdamgia.ru/problem?id=26662
 ### Математика: https://math-ege.sdamgia.ru/test?id=44193576
 
-![image](https://user-images.githubusercontent.com/70198995/159260537-36e56134-47c2-4038-82f2-6704b0d03f46.png)
+![image](https://user-images.githubusercontent.com/70198995/159261895-1c0c8f81-dca7-4df3-b735-08b083bd70a5.png)
 
 ![image](https://user-images.githubusercontent.com/97444278/152787874-5084061e-1b2c-43dc-958b-560c8ca76e8e.png)
 
