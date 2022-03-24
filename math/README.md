@@ -21,7 +21,7 @@
 
 https://fin-plus.ru/services/deposit/tic.php?deposit_id=1305163
 
-# [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#алгебра--геометрия--физика)
+# [Геометрия](https://github.com/sch1432/sch1432/tree/main/math)
 ### 2D фигуры 
 <img src="https://user-images.githubusercontent.com/97444278/149924490-f0cdb61d-621a-4b92-8dba-3dfaa8623bd9.png" width="400">
 
