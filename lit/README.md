@@ -1,1 +1,1 @@
-# [Алгебра](https://github.com/sch1432/sch1432/tree/main/math) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz) | [Литература](https://github.com/sch1432/sch1432/tree/main/lit)
+# [Алгебра](https://github.com/sch1432/sch1432/tree/main/math) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz) | [Литература](https://github.com/sch1432/sch1432)
