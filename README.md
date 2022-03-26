@@ -4,6 +4,9 @@
 ### Математика: https://math-ege.sdamgia.ru/problem?id=26662
 ### Математика: https://math-ege.sdamgia.ru/test?id=44193576
 
+![image](https://user-images.githubusercontent.com/70198995/160241549-ad2575cf-6488-4e17-ab0d-3b8c5f7c88ed.png)
+
+
 ![image](https://user-images.githubusercontent.com/70198995/159261895-1c0c8f81-dca7-4df3-b735-08b083bd70a5.png)
 
 ![image](https://user-images.githubusercontent.com/97444278/152787874-5084061e-1b2c-43dc-958b-560c8ca76e8e.png)
