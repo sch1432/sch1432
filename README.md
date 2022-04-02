@@ -3,6 +3,7 @@
 ### Русский: https://rus-ege.sdamgia.ru/problem?id=38780
 ### Математика: https://math-ege.sdamgia.ru/problem?id=26662
 ### Математика: https://math-ege.sdamgia.ru/test?id=44193576
+### Математика база: https://mathb-ege.sdamgia.ru/test?id=13172468
 
 ![image](https://user-images.githubusercontent.com/70198995/160388324-ead1e9f3-b9b2-4d9f-a21f-4088c10633f0.png)
 
