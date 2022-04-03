@@ -1,5 +1,7 @@
 # [Алгебра](https://github.com/sch1432/sch1432/tree/main/math) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [↩ Физика](https://github.com/sch1432/sch1432) | [Русский](https://github.com/sch1432/sch1432/tree/main/rus) | [Литература](https://github.com/sch1432/sch1432/tree/main/lit)
 
+![image](https://user-images.githubusercontent.com/70198995/161424159-40120e0d-991c-4fc8-ad1f-d6d5b7ec817c.png)
+
 ![image](https://user-images.githubusercontent.com/70198995/161424049-d535c085-82f4-404d-956b-b064a7d25857.png)
 
 ![image](https://user-images.githubusercontent.com/70198995/161424066-a7f2697e-667e-4631-8bb9-ae4c15d3b42d.png)
