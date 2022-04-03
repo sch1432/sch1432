@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/70198995/161424049-d535c085-82f4-404d-956b-b064a7d25857.png)
 
+![image](https://user-images.githubusercontent.com/70198995/161424066-a7f2697e-667e-4631-8bb9-ae4c15d3b42d.png)
+
 ![изображение](https://user-images.githubusercontent.com/97444278/149798428-3975de3f-f9cd-4ec5-9311-48f003a9f1c1.png)
 
 ## Темы
