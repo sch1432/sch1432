@@ -94,4 +94,13 @@
 
 ![image](https://user-images.githubusercontent.com/70198995/161531517-566c6433-fff6-4066-8b7a-81fcae066254.png)
 
+# §43 Химия в промышле
+![image](https://user-images.githubusercontent.com/70198995/161531574-690b1682-138a-4b6e-adbd-7170f82db379.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531592-7400daf0-e24f-43e5-ba37-7cebf4f87039.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531601-f1ea6248-7024-4e06-919e-9203254edf6d.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531615-046ff3d9-8217-44ce-a9b0-948a780ce8ef.png)
+
 
