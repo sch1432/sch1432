@@ -144,4 +144,16 @@
 
 ![image](https://user-images.githubusercontent.com/70198995/161531912-529c1f00-5c26-4342-97f2-7fe894506fcf.png)
 
+# §45 Производство стали.
+![image](https://user-images.githubusercontent.com/70198995/161532015-ce8ce0b0-45e8-4872-8d7c-cf87b1945a32.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161532030-50c158a5-7eb8-4e32-9c6a-f84ed067c08d.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161532037-9d4beb90-d33a-4129-afd3-656ee54699f9.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161532053-f2089275-a3c0-45bd-9a6e-3e37e87d8b29.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161532063-290dadfd-b0f6-4a5b-a949-c21df189b729.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161532074-0537add2-e064-44b9-8d5f-f1cd428a74df.png)
 
