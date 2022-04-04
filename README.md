@@ -5,7 +5,7 @@
 ### Математика: https://math-ege.sdamgia.ru/test?id=44193576
 ### Математика база: https://mathb-ege.sdamgia.ru/test?id=13172468
 
-![image](https://user-images.githubusercontent.com/70198995/160388324-ead1e9f3-b9b2-4d9f-a21f-4088c10633f0.png)
+![image](https://user-images.githubusercontent.com/70198995/161596423-31cc6736-a3fc-442a-852c-2f692f6a959a.png)
 
 ![image](https://user-images.githubusercontent.com/70198995/160388469-83210b97-aa63-4ac2-8a3d-0b635dc505fb.png)
 
