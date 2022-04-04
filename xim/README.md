@@ -103,4 +103,45 @@
 
 ![image](https://user-images.githubusercontent.com/70198995/161531615-046ff3d9-8217-44ce-a9b0-948a780ce8ef.png)
 
+![image](https://user-images.githubusercontent.com/70198995/161531670-d5a52c00-fbaa-47a4-bbcb-93af54a8574a.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531685-0182c45c-eb4c-4378-873c-e9adc876954d.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531700-dcb01519-381d-4f06-823e-5797ee80f0bb.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531708-a96202f3-8141-4a33-9f25-c1b13f996377.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531718-39b0411a-7dfa-49fa-8233-bc19de752f70.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531727-74a9ccde-dd77-47c6-a405-d0c1367e79d9.png)
+
+# §44 Химико-технологич...
+![image](https://user-images.githubusercontent.com/70198995/161531761-5a74f1ee-1868-46f3-a44b-c0a7253f3fed.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531776-77dedf3d-10e2-4929-bcdf-2d302fcb4046.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531783-fc3dfcc1-ada0-4975-bc4e-fbdb70d1ac45.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531790-96ad48d9-c094-4943-8ba6-a81fa185abfe.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531812-414d782b-4f71-435d-841d-cf937e3742ed.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531823-53a8db88-9772-4a67-aef1-63ba1d03865b.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531832-996f1131-d00e-4e6a-9654-820c057e9522.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531844-5c3158e6-76b5-48ac-abe2-121b35b54f2a.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531858-f5c4b643-a603-4ea3-9624-3395ce449c69.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531874-02891ed8-c1c6-4ae0-a97d-64663fa6a1b4.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531885-0402dab1-c776-446a-989b-5f4987c7de58.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531901-c4386e79-4f84-46f5-8cc6-631cb99ba151.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531906-9c7fb2a5-55eb-4285-8127-8a4d013f35af.png)
+
+![image](https://user-images.githubusercontent.com/70198995/161531912-529c1f00-5c26-4342-97f2-7fe894506fcf.png)
+
 
