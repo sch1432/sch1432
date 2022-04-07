@@ -10,6 +10,8 @@
 
 ![изображение](https://user-images.githubusercontent.com/97444278/149798428-3975de3f-f9cd-4ec5-9311-48f003a9f1c1.png)
 
+https://reshak.ru/otvet/otvet10.php?otvet1=1205
+
 ## Темы
 | Тема | Описание
 | --- | ---
