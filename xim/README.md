@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/70198995/163716569-5ddea84c-73d0-4cf5-9a3f-2cf7651db62b.png)
 
+![image](https://user-images.githubusercontent.com/70198995/163716590-68abe6c4-8866-44f0-a854-bc8608f00194.png)
+
 # §34
 ![image](https://user-images.githubusercontent.com/70198995/161530784-7c03d6d7-1ffa-4fc2-abc1-e7cbd4509415.png)
 
