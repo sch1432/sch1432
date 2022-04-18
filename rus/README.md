@@ -9,8 +9,8 @@
 | [5](https://github.com/sch1432/sch1432/blob/main/rus/ege/5.md) | Неверный пароним |
 | [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) | Замена исключение лишнего слова |
 | [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) | Неправильная форма слова |
-| 8 | Найти грамматические ошибки в предложениях |
-| 9 | Гласные в корнях |
+| [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md)| Найти грамматические ошибки в предложениях |
+| [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | 10 | Приставки |
 | 11 | Суффиксы |
 | 12 | Суффиксы глаголов |
