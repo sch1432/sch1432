@@ -8,7 +8,7 @@
 | [4](https://github.com/sch1432/sch1432/blob/main/rus/ege/4.md) | Неверное ударение |
 | [5](https://github.com/sch1432/sch1432/blob/main/rus/ege/5.md) | Неверный пароним |
 | [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) | Замена исключение лишнего слова |
-| 7 | Неправильная форма слова |
+| [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) | Неправильная форма слова |
 | 8 | Найти грамматические ошибки в предложениях |
 | 9 | Гласные в корнях |
 | 10 | Приставки |
