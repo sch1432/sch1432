@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/97444278/149924013-a9157f08-0239-4722-8ec0-3ce8bad4d63d.png" width="350">
 
 ### Производная '
-<img src="https://user-images.githubusercontent.com/97444278/149924078-b68927b8-145c-4d6d-bc8b-575b64cae6dc.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924097-4c7bdda9-fd43-45f9-ba1f-eb4de48513e0.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924109-1f8534c7-edfe-4850-83d4-46fd2e266082.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924121-e6077ba1-da09-40fa-8cd8-d343e2bb8ce5.png" width="300"><img src="https://user-images.githubusercontent.com/97444278/149924135-205a293c-590e-444b-b248-362acefd2ccf.png" width="400">
+<img src="https://user-images.githubusercontent.com/97444278/149924078-b68927b8-145c-4d6d-bc8b-575b64cae6dc.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924109-1f8534c7-edfe-4850-83d4-46fd2e266082.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924121-e6077ba1-da09-40fa-8cd8-d343e2bb8ce5.png" width="300"><img src="https://user-images.githubusercontent.com/97444278/149924135-205a293c-590e-444b-b248-362acefd2ccf.png" width="400">
 
 ### Логарифм (log)
 <img src="https://user-images.githubusercontent.com/97444278/149924178-b59f1f1d-0ae9-413a-8638-41e9b0d6a17b.png" width="400">
