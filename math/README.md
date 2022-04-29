@@ -8,7 +8,7 @@
 | [💚 4](https://github.com/sch1432/sch1432/blob/main/math/ege/4.md) | Уравнения 2 |
 | [💛 5](https://github.com/sch1432/sch1432/blob/main/math/ege/5.md) | Стереометрия 3D |
 | [💛 6](https://github.com/sch1432/sch1432/blob/main/math/ege/6.md) | Производная ', графики |
-| 7 | Формулы, физика |
+| [💚 7](https://github.com/sch1432/sch1432/blob/main/math/ege/7.md) | Формулы, физика |
 | [💚 8](https://github.com/sch1432/sch1432/blob/main/math/ege/8.md) | Текстовые задачи, смеси работы | 
 | [💛 9](https://github.com/sch1432/sch1432/blob/main/math/ege/6.md) | Графики 2 |
 | 10 | Вероятность 2 | 
