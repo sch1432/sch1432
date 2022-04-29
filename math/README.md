@@ -23,12 +23,6 @@
 
 
 # Алгебра
-### Первообразная F(x)
-<img src="https://user-images.githubusercontent.com/97444278/149924013-a9157f08-0239-4722-8ec0-3ce8bad4d63d.png" width="350">
-
-### Производная '
-<img src="https://user-images.githubusercontent.com/97444278/149924078-b68927b8-145c-4d6d-bc8b-575b64cae6dc.png" width="400">
-<img src="https://user-images.githubusercontent.com/97444278/149924135-205a293c-590e-444b-b248-362acefd2ccf.png" width="400">
 
 ### Логарифм (log)
 <img src="https://user-images.githubusercontent.com/97444278/149924178-b59f1f1d-0ae9-413a-8638-41e9b0d6a17b.png" width="400">
