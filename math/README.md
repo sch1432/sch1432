@@ -25,6 +25,8 @@
 # Алгебра
 
 ### Логарифм (log)
+<img src="http://900igr.net/up/datas/184633/020.jpg" width="400">
+
 <img src="https://user-images.githubusercontent.com/97444278/149924178-b59f1f1d-0ae9-413a-8638-41e9b0d6a17b.png" width="400">
 
 ### [Вклады](https://fincalculator.ru/kalkulyator-vkladov#9319ASB13234AG9315A13409s3ANATAP32k5A5B1831341212B19gjobmEbufB1831351212AKB1831331241AO313AJ931AAH311AE5ARd10A0314A832R1B1KsbufRbznfouGjyfeEbzt8310AD312A98310AI8310B1HbnpvouBoeEbzSbuft8310AW310AB2ALB1831331241AC931AAH311AE5870A0311A832R1B1KsbufRbznfouGjyfeEbzt8310AD312A98310AI8310B1HbnpvouBoeEbzSbuft8310AW310AF8310359GpPT)
