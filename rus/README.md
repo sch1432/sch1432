@@ -36,3 +36,4 @@
 
 Сочинение: 25/58 баллов
 
+![image](https://user-images.githubusercontent.com/70198995/169833111-9aac1d4c-257e-4fde-a4f2-ffa99bbcfcff.png)
