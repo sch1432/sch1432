@@ -10,7 +10,7 @@
 | [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) (+1 балл) | Замена исключение лишнего слова |
 | [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) (+1 балл) | Неправильная форма слова |
 | [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md) (+5 балл) | Найти грамматические ошибки в предложениях |
-| [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+5 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
+| [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+1 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) (+1 балл) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
 | [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) (+1 балл) | Суффиксы |
 | [12](https://github.com/sch1432/sch1432/blob/main/rus/ege/12.md) (+1 балл) | Суффиксы глаголов (спряжения) |
