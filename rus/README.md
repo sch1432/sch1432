@@ -9,7 +9,7 @@
 | [5](https://github.com/sch1432/sch1432/blob/main/rus/ege/5.md) (+1 балл) | Неверный пароним |
 | [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) (+1 балл) | Замена исключение лишнего слова |
 | [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) (+1 балл) | Неправильная форма слова |
-| [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md) (+5 балл) | Найти грамматические ошибки в предложениях |
+| [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md) (+5️⃣ балл) | Найти грамматические ошибки в предложениях |
 | [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+1 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) (+1 балл) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
 | [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) (+1 балл) | Суффиксы |
@@ -27,5 +27,5 @@
 | 23 (+1 балл) | Текст. Верные описания приложений |
 | 24 (+1 балл) | Найти слово фразеологизм, фигуры речи |
 | 25 (+1 балл) | Найти ДВА связывающих предложения |
-| [26](https://github.com/sch1432/sch1432/blob/main/rus/ege/26.md) (+4 балл)  | Языковые средства выразительности |
+| [26](https://github.com/sch1432/sch1432/blob/main/rus/ege/26.md) (+4️⃣ балл)  | Языковые средства выразительности |
 | [27](https://github.com/sch1432/sch1432/blob/main/rus/ege/27.md) (+25 балл) | Сочинение |
