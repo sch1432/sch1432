@@ -13,7 +13,7 @@
 | [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
 | [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) | Суффиксы |
-| 12 | Суффиксы глаголов |
+| [12](https://github.com/sch1432/sch1432/blob/main/rus/ege/12.md) | Суффиксы глаголов (спряжения) |
 | 13 | НЕ/НИ слитно или раздельно |
 | 14 | Слитно или раздельно |
 | 15 | Н/НН |
