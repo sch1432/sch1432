@@ -25,8 +25,8 @@
 | [21](https://github.com/sch1432/sch1432/blob/main/rus/ege/21.md) (+1 балл) | Одно и то же правило для запятой |
 | [22](https://github.com/sch1432/sch1432/blob/main/rus/ege/22.md) (+1 балл) | Текст. Верные высказывания |
 | [23](https://github.com/sch1432/sch1432/blob/main/rus/ege/23.md) (+1 балл) | Текст. Верные описания приложений |
-| 24 (+1 балл) | Найти слово фразеологизм, фигуры речи |
-| 25 (+1 балл) | Найти ДВА связывающих предложения |
+| [24](https://github.com/sch1432/sch1432/blob/main/rus/ege/24.md) (+1 балл) | Найти слово фразеологизм, фигуры речи |
+| [25](https://github.com/sch1432/sch1432/blob/main/rus/ege/25.md) (+1 балл) | Найти ДВА связывающих предложения |
 | [26](https://github.com/sch1432/sch1432/blob/main/rus/ege/26.md) (+4️⃣ балл)  | Языковые средства выразительности |
 | [27](https://github.com/sch1432/sch1432/blob/main/rus/ege/27.md) (+25 балл) | Сочинение |
 
