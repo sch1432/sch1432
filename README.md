@@ -1,4 +1,4 @@
-# ЕГЭ
+# [Математика](https://github.com/sch1432/sch1432/tree/main/math) | [Русский](https://github.com/sch1432/sch1432/tree/main/rus)
 Даты - https://vpr-ege.ru/ege/1576-ofitsialnoe-raspisanie-ege-2022
 
 ![image](https://user-images.githubusercontent.com/70198995/161596423-31cc6736-a3fc-442a-852c-2f692f6a959a.png)
