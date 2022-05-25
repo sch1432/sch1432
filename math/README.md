@@ -1,4 +1,4 @@
-# [↩ Алгебра](https://github.com/sch1432/sch1432) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz) | [Русский](https://github.com/sch1432/sch1432)
+https://math-ege.sdamgia.ru
 
 | № | Тема |
 | --------- | ----- |
