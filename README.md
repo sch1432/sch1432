@@ -1,6 +1,5 @@
-# [Алгебра](https://github.com/sch1432/sch1432/tree/main/math) | [Геометрия](https://github.com/sch1432/sch1432/tree/main/math#Геометрия) | [Физика](https://github.com/sch1432/sch1432/tree/main/fiz) | [Русский](https://github.com/sch1432/sch1432/tree/main/rus)
 
-### Русский: https://rus-ege.sdamgia.ru/problem?id=38780
+
 ### Математика: https://math-ege.sdamgia.ru/problem?id=26662
 ### Математика: https://math-ege.sdamgia.ru/test?id=44193576
 ### Математика база: https://mathb-ege.sdamgia.ru/test?id=13172468
