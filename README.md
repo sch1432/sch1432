@@ -12,10 +12,6 @@
 
 ![image](https://user-images.githubusercontent.com/70198995/160388085-b256cbb2-70e6-4cd0-85f4-a1f34830f9e6.png)
 
-
-- https://web.tlgrm.app/#/login
-- https://calendar.google.com/calendar/u/0?cid=ZHY4MjQ1MDA5QGdtYWlsLmNvbQ
-
 # ЕГЭ
 Даты - https://vpr-ege.ru/ege/1576-ofitsialnoe-raspisanie-ege-2022
 
