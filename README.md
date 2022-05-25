@@ -1,7 +1,3 @@
-
-
-### Математика: https://math-ege.sdamgia.ru/problem?id=26662
-### Математика: https://math-ege.sdamgia.ru/test?id=44193576
 ### Математика база: https://mathb-ege.sdamgia.ru/test?id=13172468
 
 ![image](https://user-images.githubusercontent.com/70198995/161596423-31cc6736-a3fc-442a-852c-2f692f6a959a.png)
