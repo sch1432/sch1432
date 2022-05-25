@@ -14,8 +14,3 @@
 
 # ЕГЭ
 Даты - https://vpr-ege.ru/ege/1576-ofitsialnoe-raspisanie-ege-2022
-
-
-![image](https://user-images.githubusercontent.com/70198995/158185745-7199f1f9-69b1-40d8-b5c3-72da80e8e69a.png)
-
-![image](https://user-images.githubusercontent.com/70198995/158437431-af1e008c-4e3a-4773-9046-d7492e1bb605.png)
