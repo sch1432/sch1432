@@ -28,11 +28,12 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 8 Найти ошибки в предложениях (+5️⃣ балл!)
 ![image](https://user-images.githubusercontent.com/70198995/170875860-0a0d9936-4971-406f-a61b-e85d79135d0b.png)
 
+# 9 Гласные в корнях БИР/БЕР/МИР/МЕР (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170877015-77591590-ad7c-414b-8563-9d10dcb7b007.png)
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+1 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) (+1 балл) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
 | [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) (+1 балл) | Суффиксы |
 | [12](https://github.com/sch1432/sch1432/blob/main/rus/ege/12.md) (+1 балл) | Суффиксы глаголов (спряжения) |
