@@ -84,12 +84,12 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 25 2 связывающих предложения
 ![image](https://user-images.githubusercontent.com/70198995/170887436-4142e4a5-3bdf-4fd2-9bf1-9400f14a8457.png)
 
-# 26
+# 26 Языковые средства выразительности
+![image](https://user-images.githubusercontent.com/70198995/170887791-97d6ba42-fb81-4736-9a28-7480d7a0f216.png)
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [26](https://github.com/sch1432/sch1432/blob/main/rus/ege/26.md) (+4️⃣ балл)  | Языковые средства выразительности |
 | [27](https://github.com/sch1432/sch1432/blob/main/rus/ege/27.md) (+25 балл) | Сочинение |
 
 Проходной: 22/58 балла
