@@ -1,46 +1,46 @@
 https://rus-ege.sdamgia.ru
 
-# 1 Текст. Верные характеристики (+1 балл)
+# 1 Текст. Верные характеристики
 ![image](https://user-images.githubusercontent.com/70198995/170870983-c31ab1f8-8891-413e-b7a7-9e099019bf21.png)
 
-# 2 Текст. Подобрать слово <...> (+1 балл)
+# 2 Текст. Подобрать слово <...>
 ![image](https://user-images.githubusercontent.com/70198995/170871078-6e0b9b6f-58d5-42c3-a1be-2584284807d8.png)
 ![image](https://user-images.githubusercontent.com/70198995/170871106-325c5ae0-b8e9-4c0b-8bf2-2b6ab3b8001a.png)
 
-# 3 Текст. Определите в каком значение слово (+1 балл)
+# 3 Текст. Определите в каком значение слово
 ![image](https://user-images.githubusercontent.com/70198995/170872081-f0a16cb4-602a-47f7-b2be-0fd6372e8b66.png)
 
-# 4 Неверное ударение ` (+1 балл)
+# 4 Неверное ударение `
 ![image](https://user-images.githubusercontent.com/70198995/170873192-21fee2e3-8ad6-4787-98aa-d3e62a9fcdbf.png)
 ![image](https://user-images.githubusercontent.com/70198995/170873199-afc1433a-b0c5-43f2-ac50-ceb9a564b24d.png)
 
-# 5 Неверный пароним (+1 балл)
+# 5 Неверный пароним
 ![image](https://user-images.githubusercontent.com/70198995/170873758-bb350910-a91c-4d14-b071-54d5ea079078.png)
 ![image](https://user-images.githubusercontent.com/70198995/170873765-8a5e1ed8-1f6c-4c47-99c4-f1fdfe1a35e8.png)
 
-# 6 Замена / исключение лишнего слова (+1 балл)
+# 6 Замена / исключение лишнего слова
 ![image](https://user-images.githubusercontent.com/70198995/170874281-8c71384d-a6b0-443e-9a53-d7d19fba1875.png)
 ![image](https://user-images.githubusercontent.com/70198995/170874298-de191109-c09a-4d47-a063-15ea1800dd49.png)
 
-# 7 Неправильная форма слова (+1 балл)
+# 7 Неправильная форма слова
 https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 
 # 8 Найти ошибки в предложениях (+5️⃣ балл!)
 ![image](https://user-images.githubusercontent.com/70198995/170875860-0a0d9936-4971-406f-a61b-e85d79135d0b.png)
 
-# 9 Проверяемые / непроверяемые гласные в корнях (+1 балл)
+# 9 Проверяемые / непроверяемые гласные в корнях
 ![image](https://user-images.githubusercontent.com/70198995/170877015-77591590-ad7c-414b-8563-9d10dcb7b007.png)
 
-# 10 Приставки (+1 балл)
+# 10 Приставки
 ![image](https://user-images.githubusercontent.com/70198995/170879510-23736cc6-2961-4330-a983-a6f70d25a51f.png)
 
-# 11 Суффиксы (+1 балл)
+# 11 Суффиксы
 ![image](https://user-images.githubusercontent.com/70198995/170881401-c1c99612-d347-4c67-b1d3-59a23c05f5c3.png)
 
-# 12 Суффиксы глаголлов (спряжениея) (+1 балл)
+# 12 Суффиксы глаголлов (спряжениея)
 ![image](https://user-images.githubusercontent.com/70198995/170881949-108739bf-8a46-4b8f-b5ce-74664c70134d.png)
 
-# 13 НЕ/НИ слитно или раздельно (+1 балл)
+# 13 НЕ/НИ слитно или раздельно
 ![image](https://user-images.githubusercontent.com/70198995/170882924-b0d989c7-b191-4514-a574-67fbf8d9d7ab.png)
 ![image](https://user-images.githubusercontent.com/70198995/170882934-f98039b2-712f-498d-ac6b-290a30077bbf.png)
 ![image](https://user-images.githubusercontent.com/70198995/170882938-cc299c38-cb95-4749-a92b-2de2ad1f8093.png)
@@ -50,10 +50,12 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 ![image](https://user-images.githubusercontent.com/70198995/170883828-8ee7596f-9482-45d0-8ae5-66dbd465eed5.png)
 ![image](https://user-images.githubusercontent.com/70198995/170883840-a67a6165-2fa0-4ea5-81c6-7351daa28d42.png)
 
+# 15 Н/НН
+![image](https://user-images.githubusercontent.com/70198995/170884376-d51dadf3-9ce8-4349-9560-2e0ed6468fcc.png)
+
 
 | Номер | Тема |
 | ---- | ----- |
-| [15](https://github.com/sch1432/sch1432/blob/main/rus/ege/15.md) (+1 балл) | Н/НН |
 | [16](https://github.com/sch1432/sch1432/blob/main/rus/ege/16.md) (+1 балл) | Одна запятая (однородные, сложные) |
 | [17](https://github.com/sch1432/sch1432/blob/main/rus/ege/17.md) (+1 балл) | Несколько запятых (причастные обороты) |
 | [18](https://github.com/sch1432/sch1432/blob/main/rus/ege/18.md) (+1 балл) | Любые запятые (стихи) |
