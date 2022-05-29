@@ -56,12 +56,13 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 16 Одна запятая (однородные, сложные)
 ![image](https://user-images.githubusercontent.com/70198995/170884723-f57bb6b5-830a-46e3-a62f-fd2ffeba2a06.png)
 
-
+# 17 Несколько запятых (причастные обороты)
+![image](https://user-images.githubusercontent.com/70198995/170885138-989b6f75-58dd-4f6c-846f-eada262f35cf.png)
+![image](https://user-images.githubusercontent.com/70198995/170885145-3e68546f-d208-4977-9454-da7909d16aa5.png)
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [17](https://github.com/sch1432/sch1432/blob/main/rus/ege/17.md) (+1 балл) | Несколько запятых (причастные обороты) |
 | [18](https://github.com/sch1432/sch1432/blob/main/rus/ege/18.md) (+1 балл) | Любые запятые (стихи) |
 | [19](https://github.com/sch1432/sch1432/blob/main/rus/ege/19.md) (+1 балл) | Запятые в сложноподчинённых |
 | [20](https://github.com/sch1432/sch1432/blob/main/rus/ege/20.md) (+1 балл) | Запятые в сложных |
