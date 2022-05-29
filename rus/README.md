@@ -84,6 +84,8 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 25 2 связывающих предложения
 ![image](https://user-images.githubusercontent.com/70198995/170887436-4142e4a5-3bdf-4fd2-9bf1-9400f14a8457.png)
 
+# 26
+
 
 | Номер | Тема |
 | ---- | ----- |
