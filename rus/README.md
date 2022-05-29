@@ -53,10 +53,14 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 15 Н/НН
 ![image](https://user-images.githubusercontent.com/70198995/170884376-d51dadf3-9ce8-4349-9560-2e0ed6468fcc.png)
 
+# 16 Одна запятая (однородные, сложные)
+![image](https://user-images.githubusercontent.com/70198995/170884723-f57bb6b5-830a-46e3-a62f-fd2ffeba2a06.png)
+
+
+
 
 | Номер | Тема |
 | ---- | ----- |
-| [16](https://github.com/sch1432/sch1432/blob/main/rus/ege/16.md) (+1 балл) | Одна запятая (однородные, сложные) |
 | [17](https://github.com/sch1432/sch1432/blob/main/rus/ege/17.md) (+1 балл) | Несколько запятых (причастные обороты) |
 | [18](https://github.com/sch1432/sch1432/blob/main/rus/ege/18.md) (+1 балл) | Любые запятые (стихи) |
 | [19](https://github.com/sch1432/sch1432/blob/main/rus/ege/19.md) (+1 балл) | Запятые в сложноподчинённых |
