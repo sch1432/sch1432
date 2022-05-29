@@ -18,9 +18,15 @@ https://rus-ege.sdamgia.ru
 ![image](https://user-images.githubusercontent.com/70198995/170873758-bb350910-a91c-4d14-b071-54d5ea079078.png)
 ![image](https://user-images.githubusercontent.com/70198995/170873765-8a5e1ed8-1f6c-4c47-99c4-f1fdfe1a35e8.png)
 
+# 6 Замена / исключение лишнего слова (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170874281-8c71384d-a6b0-443e-9a53-d7d19fba1875.png)
+![image](https://user-images.githubusercontent.com/70198995/170874298-de191109-c09a-4d47-a063-15ea1800dd49.png)
+
+
+
+
 | Номер | Тема |
 | ---- | ----- |
-| [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) (+1 балл) | Замена исключение лишнего слова |
 | [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) (+1 балл) | Неправильная форма слова |
 | [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md) (+5️⃣ балл) | Найти грамматические ошибки в предложениях |
 | [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+1 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
