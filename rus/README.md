@@ -63,9 +63,13 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 18 Любые запятые (стихи)
 ![image](https://user-images.githubusercontent.com/70198995/170885352-c1df03a9-3dce-4bc8-baa8-aef5e5db9e19.png)
 
+# 19 Запятые в сложноподчинённых
+![image](https://user-images.githubusercontent.com/70198995/170885633-d9cd5db8-87ca-460a-8bb7-b022cafd07c3.png)
+
+
+
 | Номер | Тема |
 | ---- | ----- |
-| [19](https://github.com/sch1432/sch1432/blob/main/rus/ege/19.md) (+1 балл) | Запятые в сложноподчинённых |
 | [20](https://github.com/sch1432/sch1432/blob/main/rus/ege/20.md) (+1 балл) | Запятые в сложных |
 | [21](https://github.com/sch1432/sch1432/blob/main/rus/ege/21.md) (+1 балл) | Одно и то же правило для запятой |
 | [22](https://github.com/sch1432/sch1432/blob/main/rus/ege/22.md) (+1 балл) | Текст. Верные высказывания |
