@@ -1,7 +1,7 @@
 https://rus-ege.sdamgia.ru
 
 # 1 Текст. Верные характеристики (+1 балл)
-
+![image](https://user-images.githubusercontent.com/70198995/170868276-9a7d62a4-2f55-49e3-90cf-7d55893f0501.png)
 
 
 | Номер | Тема |
