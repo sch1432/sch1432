@@ -8,6 +8,8 @@ https://rus-ege.sdamgia.ru
 ![image](https://user-images.githubusercontent.com/70198995/170871106-325c5ae0-b8e9-4c0b-8bf2-2b6ab3b8001a.png)
 
 # 3 Текст. Определите в каком значение слово (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170872081-f0a16cb4-602a-47f7-b2be-0fd6372e8b66.png)
+
 
 | Номер | Тема |
 | ---- | ----- |
