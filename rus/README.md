@@ -1,9 +1,10 @@
 https://rus-ege.sdamgia.ru
 
 # 1 Текст. Верные характеристики (+1 балл)
-![image](https://user-images.githubusercontent.com/70198995/170868276-9a7d62a4-2f55-49e3-90cf-7d55893f0501.png)
+![image](https://user-images.githubusercontent.com/70198995/170870983-c31ab1f8-8891-413e-b7a7-9e099019bf21.png)
 
 # 2 Текст. Подобрать слово <...> (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170870997-02333f24-aab4-4e09-be2b-c931ad12d908.png)
 
 | Номер | Тема |
 | ---- | ----- |
