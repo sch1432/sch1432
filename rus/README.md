@@ -37,10 +37,15 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 11 Суффиксы (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170881401-c1c99612-d347-4c67-b1d3-59a23c05f5c3.png)
 
+# 12 Суффиксы глаголлов (спряжениея) (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170881949-108739bf-8a46-4b8f-b5ce-74664c70134d.png)
+
+
+
+
 
 | Номер | Тема |
 | ---- | ----- |
-| [12](https://github.com/sch1432/sch1432/blob/main/rus/ege/12.md) (+1 балл) | Суффиксы глаголов (спряжения) |
 | [13](https://github.com/sch1432/sch1432/blob/main/rus/ege/13.md) (+1 балл) | НЕ/НИ слитно или раздельно |
 | [14](https://github.com/sch1432/sch1432/blob/main/rus/ege/14.md) (+1 балл) | Слитно или раздельно или дефис - |
 | [15](https://github.com/sch1432/sch1432/blob/main/rus/ege/15.md) (+1 балл) | Н/НН |
