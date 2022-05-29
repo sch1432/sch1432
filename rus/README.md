@@ -40,13 +40,16 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 12 Суффиксы глаголлов (спряжениея) (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170881949-108739bf-8a46-4b8f-b5ce-74664c70134d.png)
 
+# 13 НЕ/НИ слитно или раздельно
+![image](https://user-images.githubusercontent.com/70198995/170882924-b0d989c7-b191-4514-a574-67fbf8d9d7ab.png)
+![image](https://user-images.githubusercontent.com/70198995/170882934-f98039b2-712f-498d-ac6b-290a30077bbf.png)
+![image](https://user-images.githubusercontent.com/70198995/170882938-cc299c38-cb95-4749-a92b-2de2ad1f8093.png)
 
 
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [13](https://github.com/sch1432/sch1432/blob/main/rus/ege/13.md) (+1 балл) | НЕ/НИ слитно или раздельно |
 | [14](https://github.com/sch1432/sch1432/blob/main/rus/ege/14.md) (+1 балл) | Слитно или раздельно или дефис - |
 | [15](https://github.com/sch1432/sch1432/blob/main/rus/ege/15.md) (+1 балл) | Н/НН |
 | [16](https://github.com/sch1432/sch1432/blob/main/rus/ege/16.md) (+1 балл) | Одна запятая (однородные, сложные) |
