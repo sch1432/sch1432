@@ -15,6 +15,8 @@ https://rus-ege.sdamgia.ru
 ![image](https://user-images.githubusercontent.com/70198995/170873199-afc1433a-b0c5-43f2-ac50-ceb9a564b24d.png)
 
 # 5 Неверный пароним (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170873758-bb350910-a91c-4d14-b071-54d5ea079078.png)
+![image](https://user-images.githubusercontent.com/70198995/170873765-8a5e1ed8-1f6c-4c47-99c4-f1fdfe1a35e8.png)
 
 | Номер | Тема |
 | ---- | ----- |
