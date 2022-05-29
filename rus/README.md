@@ -72,10 +72,11 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 21 Одно и то же правило для запятой
 ![image](https://user-images.githubusercontent.com/70198995/170885893-dadac823-be4a-46cd-94bb-95a96698005a.png)
 
+# 22 Текст. Верные высказывания
+![image](https://user-images.githubusercontent.com/70198995/170885963-3acf7db1-3753-4b7e-9de6-dbbe310e4e42.png)
 
 | Номер | Тема |
 | ---- | ----- |
-| [22](https://github.com/sch1432/sch1432/blob/main/rus/ege/22.md) (+1 балл) | Текст. Верные высказывания |
 | [23](https://github.com/sch1432/sch1432/blob/main/rus/ege/23.md) (+1 балл) | Текст. Верные описания приложений |
 | [24](https://github.com/sch1432/sch1432/blob/main/rus/ege/24.md) (+1 балл) | Найти слово фразеологизм, фигуры речи |
 | [25](https://github.com/sch1432/sch1432/blob/main/rus/ege/25.md) (+1 балл) | Найти ДВА связывающих предложения |
