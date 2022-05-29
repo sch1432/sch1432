@@ -10,10 +10,14 @@ https://rus-ege.sdamgia.ru
 # 3 Текст. Определите в каком значение слово (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170872081-f0a16cb4-602a-47f7-b2be-0fd6372e8b66.png)
 
+# 4 Неверное ударение ` (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170873192-21fee2e3-8ad6-4787-98aa-d3e62a9fcdbf.png)
+![image](https://user-images.githubusercontent.com/70198995/170873199-afc1433a-b0c5-43f2-ac50-ceb9a564b24d.png)
+
+
 
 | Номер | Тема |
 | ---- | ----- |
-| [4](https://github.com/sch1432/sch1432/blob/main/rus/ege/4.md) (+1 балл) | Неверное ударение ` |
 | [5](https://github.com/sch1432/sch1432/blob/main/rus/ege/5.md) (+1 балл) | Неверный пароним |
 | [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) (+1 балл) | Замена исключение лишнего слова |
 | [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) (+1 балл) | Неправильная форма слова |
