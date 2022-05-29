@@ -34,11 +34,12 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 10 Приставки (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170879510-23736cc6-2961-4330-a983-a6f70d25a51f.png)
 
+# 11 Суффиксы (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170881220-4732f633-392b-4272-83e6-e68ac9fe20f5.png)
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) (+1 балл) | Суффиксы |
 | [12](https://github.com/sch1432/sch1432/blob/main/rus/ege/12.md) (+1 балл) | Суффиксы глаголов (спряжения) |
 | [13](https://github.com/sch1432/sch1432/blob/main/rus/ege/13.md) (+1 балл) | НЕ/НИ слитно или раздельно |
 | [14](https://github.com/sch1432/sch1432/blob/main/rus/ege/14.md) (+1 балл) | Слитно или раздельно или дефис - |
