@@ -31,10 +31,13 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 9 Гласные в корнях БИР/БЕР/МИР/МЕР (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170877015-77591590-ad7c-414b-8563-9d10dcb7b007.png)
 
+# 10 Приставки (+1 балл)
+![image](https://user-images.githubusercontent.com/70198995/170879510-23736cc6-2961-4330-a983-a6f70d25a51f.png)
+
+
 
 | Номер | Тема |
 | ---- | ----- |
-| [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) (+1 балл) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
 | [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) (+1 балл) | Суффиксы |
 | [12](https://github.com/sch1432/sch1432/blob/main/rus/ege/12.md) (+1 балл) | Суффиксы глаголов (спряжения) |
 | [13](https://github.com/sch1432/sch1432/blob/main/rus/ege/13.md) (+1 балл) | НЕ/НИ слитно или раздельно |
