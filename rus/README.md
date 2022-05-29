@@ -22,12 +22,13 @@ https://rus-ege.sdamgia.ru
 ![image](https://user-images.githubusercontent.com/70198995/170874281-8c71384d-a6b0-443e-9a53-d7d19fba1875.png)
 ![image](https://user-images.githubusercontent.com/70198995/170874298-de191109-c09a-4d47-a063-15ea1800dd49.png)
 
+# 7 Неправильная форма слова (+1 балл)
+https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [7](https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md) (+1 балл) | Неправильная форма слова |
 | [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md) (+5️⃣ балл) | Найти грамматические ошибки в предложениях |
 | [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+1 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) (+1 балл) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
