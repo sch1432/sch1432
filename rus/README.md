@@ -7,10 +7,10 @@ https://rus-ege.sdamgia.ru
 ![image](https://user-images.githubusercontent.com/70198995/170871078-6e0b9b6f-58d5-42c3-a1be-2584284807d8.png)
 ![image](https://user-images.githubusercontent.com/70198995/170871106-325c5ae0-b8e9-4c0b-8bf2-2b6ab3b8001a.png)
 
+# 3 Текст. Определите в каком значение слово (+1 балл)
 
 | Номер | Тема |
 | ---- | ----- |
-| [3](https://github.com/sch1432/sch1432/blob/main/rus/ege/3.md) (+1 балл) | Текст. Определите в каком значение слово |
 | [4](https://github.com/sch1432/sch1432/blob/main/rus/ege/4.md) (+1 балл) | Неверное ударение ` |
 | [5](https://github.com/sch1432/sch1432/blob/main/rus/ege/5.md) (+1 балл) | Неверный пароним |
 | [6](https://github.com/sch1432/sch1432/blob/main/rus/ege/6.md) (+1 балл) | Замена исключение лишнего слова |
