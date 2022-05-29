@@ -4,7 +4,10 @@ https://rus-ege.sdamgia.ru
 ![image](https://user-images.githubusercontent.com/70198995/170870983-c31ab1f8-8891-413e-b7a7-9e099019bf21.png)
 
 # 2 Текст. Подобрать слово <...> (+1 балл)
-![image](https://user-images.githubusercontent.com/70198995/170871025-f1579358-08b3-416e-8191-4b568dc79062.png)
+![image](https://user-images.githubusercontent.com/70198995/170871078-6e0b9b6f-58d5-42c3-a1be-2584284807d8.png)
+
+![image](https://user-images.githubusercontent.com/70198995/170871095-410796e9-ae3d-48b5-9d66-b36d7e45b763.png)
+
 
 | Номер | Тема |
 | ---- | ----- |
