@@ -60,10 +60,11 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 ![image](https://user-images.githubusercontent.com/70198995/170885138-989b6f75-58dd-4f6c-846f-eada262f35cf.png)
 ![image](https://user-images.githubusercontent.com/70198995/170885145-3e68546f-d208-4977-9454-da7909d16aa5.png)
 
+# 18 Любые запятые (стихи)
+![image](https://user-images.githubusercontent.com/70198995/170885352-c1df03a9-3dce-4bc8-baa8-aef5e5db9e19.png)
 
 | Номер | Тема |
 | ---- | ----- |
-| [18](https://github.com/sch1432/sch1432/blob/main/rus/ege/18.md) (+1 балл) | Любые запятые (стихи) |
 | [19](https://github.com/sch1432/sch1432/blob/main/rus/ege/19.md) (+1 балл) | Запятые в сложноподчинённых |
 | [20](https://github.com/sch1432/sch1432/blob/main/rus/ege/20.md) (+1 балл) | Запятые в сложных |
 | [21](https://github.com/sch1432/sch1432/blob/main/rus/ege/21.md) (+1 балл) | Одно и то же правило для запятой |
