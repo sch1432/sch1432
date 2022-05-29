@@ -66,11 +66,14 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 19 Запятые в сложноподчинённых
 ![image](https://user-images.githubusercontent.com/70198995/170885633-d9cd5db8-87ca-460a-8bb7-b022cafd07c3.png)
 
+# 20 Запятые в сложных
+![image](https://user-images.githubusercontent.com/70198995/170885740-364b5c1b-4b11-4276-9768-ad84aaa30249.png)
+
+
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [20](https://github.com/sch1432/sch1432/blob/main/rus/ege/20.md) (+1 балл) | Запятые в сложных |
 | [21](https://github.com/sch1432/sch1432/blob/main/rus/ege/21.md) (+1 балл) | Одно и то же правило для запятой |
 | [22](https://github.com/sch1432/sch1432/blob/main/rus/ege/22.md) (+1 балл) | Текст. Верные высказывания |
 | [23](https://github.com/sch1432/sch1432/blob/main/rus/ege/23.md) (+1 балл) | Текст. Верные описания приложений |
