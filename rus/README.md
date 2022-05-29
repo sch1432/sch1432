@@ -5,7 +5,6 @@ https://rus-ege.sdamgia.ru
 
 # 2 Текст. Подобрать слово <...> (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170871078-6e0b9b6f-58d5-42c3-a1be-2584284807d8.png)
-
 ![image](https://user-images.githubusercontent.com/70198995/170871106-325c5ae0-b8e9-4c0b-8bf2-2b6ab3b8001a.png)
 
 
