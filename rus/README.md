@@ -88,10 +88,6 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 ![image](https://user-images.githubusercontent.com/70198995/170887791-97d6ba42-fb81-4736-9a28-7480d7a0f216.png)
 
 
-| Номер | Тема |
-| ---- | ----- |
-| [27](https://github.com/sch1432/sch1432/blob/main/rus/ege/27.md) (+25 балл) | Сочинение |
-
 Проходной: 22/58 балла
 
 Тестовая часть: 33/58 балла
