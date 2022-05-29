@@ -6,7 +6,6 @@ https://rus-ege.sdamgia.ru
 
 | Номер | Тема |
 | ---- | ----- |
-| [1](https://github.com/sch1432/sch1432/blob/main/rus/ege/1.md) (+1 балл) | Текст. Верные харакретистики | 
 | [2](https://github.com/sch1432/sch1432/blob/main/rus/ege/2.md) (+1 балл) | Текст. Подобрать слово <...> |
 | [3](https://github.com/sch1432/sch1432/blob/main/rus/ege/3.md) (+1 балл) | Текст. Определите в каком значение слово |
 | [4](https://github.com/sch1432/sch1432/blob/main/rus/ege/4.md) (+1 балл) | Неверное ударение ` |
