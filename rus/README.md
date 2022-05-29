@@ -35,7 +35,7 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 ![image](https://user-images.githubusercontent.com/70198995/170879510-23736cc6-2961-4330-a983-a6f70d25a51f.png)
 
 # 11 Суффиксы (+1 балл)
-![image](https://user-images.githubusercontent.com/70198995/170881220-4732f633-392b-4272-83e6-e68ac9fe20f5.png)
+![image](https://user-images.githubusercontent.com/70198995/170881273-d1a5bd60-d101-4c2e-a1af-764f63e9d9c8.png)
 
 
 | Номер | Тема |
