@@ -26,7 +26,7 @@ https://rus-ege.sdamgia.ru
 https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 
 # 8 Найти ошибки в предложениях (+5️⃣ балл!)
-![image](https://user-images.githubusercontent.com/70198995/170875628-8ed15065-d702-4757-963a-5f46da3def8d.png)
+![image](https://user-images.githubusercontent.com/70198995/170875860-0a0d9936-4971-406f-a61b-e85d79135d0b.png)
 
 
 
