@@ -3,10 +3,10 @@ https://rus-ege.sdamgia.ru
 # 1 Текст. Верные характеристики (+1 балл)
 ![image](https://user-images.githubusercontent.com/70198995/170868276-9a7d62a4-2f55-49e3-90cf-7d55893f0501.png)
 
+# 2 Текст. Подобрать слово <...> (+1 балл)
 
 | Номер | Тема |
 | ---- | ----- |
-| [2](https://github.com/sch1432/sch1432/blob/main/rus/ege/2.md) (+1 балл) | Текст. Подобрать слово <...> |
 | [3](https://github.com/sch1432/sch1432/blob/main/rus/ege/3.md) (+1 балл) | Текст. Определите в каком значение слово |
 | [4](https://github.com/sch1432/sch1432/blob/main/rus/ege/4.md) (+1 балл) | Неверное ударение ` |
 | [5](https://github.com/sch1432/sch1432/blob/main/rus/ege/5.md) (+1 балл) | Неверный пароним |
