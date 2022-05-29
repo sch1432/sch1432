@@ -69,12 +69,12 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 20 Запятые в сложных
 ![image](https://user-images.githubusercontent.com/70198995/170885740-364b5c1b-4b11-4276-9768-ad84aaa30249.png)
 
-
+# 21 Одно и то же правило для запятой
+![image](https://user-images.githubusercontent.com/70198995/170885893-dadac823-be4a-46cd-94bb-95a96698005a.png)
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [21](https://github.com/sch1432/sch1432/blob/main/rus/ege/21.md) (+1 балл) | Одно и то же правило для запятой |
 | [22](https://github.com/sch1432/sch1432/blob/main/rus/ege/22.md) (+1 балл) | Текст. Верные высказывания |
 | [23](https://github.com/sch1432/sch1432/blob/main/rus/ege/23.md) (+1 балл) | Текст. Верные описания приложений |
 | [24](https://github.com/sch1432/sch1432/blob/main/rus/ege/24.md) (+1 балл) | Найти слово фразеологизм, фигуры речи |
