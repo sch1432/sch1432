@@ -46,11 +46,13 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 ![image](https://user-images.githubusercontent.com/70198995/170882938-cc299c38-cb95-4749-a92b-2de2ad1f8093.png)
 
 
+# 14 Слитно или раздельно или дефис
+![image](https://user-images.githubusercontent.com/70198995/170883828-8ee7596f-9482-45d0-8ae5-66dbd465eed5.png)
+![image](https://user-images.githubusercontent.com/70198995/170883840-a67a6165-2fa0-4ea5-81c6-7351daa28d42.png)
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [14](https://github.com/sch1432/sch1432/blob/main/rus/ege/14.md) (+1 балл) | Слитно или раздельно или дефис - |
 | [15](https://github.com/sch1432/sch1432/blob/main/rus/ege/15.md) (+1 балл) | Н/НН |
 | [16](https://github.com/sch1432/sch1432/blob/main/rus/ege/16.md) (+1 балл) | Одна запятая (однородные, сложные) |
 | [17](https://github.com/sch1432/sch1432/blob/main/rus/ege/17.md) (+1 балл) | Несколько запятых (причастные обороты) |
