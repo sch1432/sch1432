@@ -81,10 +81,12 @@ https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 # 24 Найти слово фразеологизм, фигуры речи
 ![image](https://user-images.githubusercontent.com/70198995/170887341-9b38548a-f476-43da-960e-c63bf904a315.png)
 
+# 25 2 связывающих предложения
+![image](https://user-images.githubusercontent.com/70198995/170887436-4142e4a5-3bdf-4fd2-9bf1-9400f14a8457.png)
+
 
 | Номер | Тема |
 | ---- | ----- |
-| [25](https://github.com/sch1432/sch1432/blob/main/rus/ege/25.md) (+1 балл) | Найти ДВА связывающих предложения |
 | [26](https://github.com/sch1432/sch1432/blob/main/rus/ege/26.md) (+4️⃣ балл)  | Языковые средства выразительности |
 | [27](https://github.com/sch1432/sch1432/blob/main/rus/ege/27.md) (+25 балл) | Сочинение |
 
