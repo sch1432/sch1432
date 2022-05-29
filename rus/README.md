@@ -25,11 +25,13 @@ https://rus-ege.sdamgia.ru
 # 7 Неправильная форма слова (+1 балл)
 https://github.com/sch1432/sch1432/blob/main/rus/ege/7.md
 
+# 8 Найти ошибки в предложениях (+5️⃣ балл!)
+![image](https://user-images.githubusercontent.com/70198995/170875628-8ed15065-d702-4757-963a-5f46da3def8d.png)
+
 
 
 | Номер | Тема |
 | ---- | ----- |
-| [8](https://github.com/sch1432/sch1432/blob/main/rus/ege/8.md) (+5️⃣ балл) | Найти грамматические ошибки в предложениях |
 | [9](https://github.com/sch1432/sch1432/blob/main/rus/ege/9.md) (+1 балл) | Гласные в корнях БИР/БЕР/МИР/МЕР |
 | [10](https://github.com/sch1432/sch1432/blob/main/rus/ege/10.md) (+1 балл) | Приставки О/ПРИ/ПРЕ/ПЕРЕ/НАД/ПОД |
 | [11](https://github.com/sch1432/sch1432/blob/main/rus/ege/11.md) (+1 балл) | Суффиксы |
