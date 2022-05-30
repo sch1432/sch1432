@@ -14,6 +14,8 @@ https://math-ege.sdamgia.ru
 
 # № 5, 13
 
+| - | -
+| ---- | --- |
 | [💚 1](https://github.com/sch1432/sch1432/blob/main/math/ege/1.md) | Уравнения |
 | 💚 2 | Вероятность |
 | [💛 3](https://github.com/sch1432/sch1432/blob/main/math/ege/3.md) | Планиметрия 2D |
