@@ -34,6 +34,24 @@ https://math-ege.sdamgia.ru
 
 # № 4, 14
 
+### Сложение и вычитание 2 функций
+![image](https://user-images.githubusercontent.com/70198995/165817029-e6617325-8c00-4a37-b55b-1ff19c9a405f.png)
+### Сложение и вычитание 2 функций
+![image](https://user-images.githubusercontent.com/70198995/165818435-728edbcf-5dfe-40e7-887c-21aee4cc9d03.png)
+### Отношения дробей
+![image](https://user-images.githubusercontent.com/70198995/165816950-11101d39-dd91-4dc2-93a3-fe9d74c265f8.png)
+### Отношения двух функций + и -
+![image](https://user-images.githubusercontent.com/70198995/165818316-ebf795d0-7f42-41d7-96ec-6197f887121b.png)
+### Квадратное уравнение >=
+![image](https://user-images.githubusercontent.com/70198995/165823871-13136698-bd2f-466a-b52f-0e0aec9dce50.png)
+### Два квадрата ()
+![image](https://user-images.githubusercontent.com/70198995/165824057-9e8fafea-1e78-44b5-aa90-7db68a6c4e48.png)
+### 2 одинаковые функции тригонометрии
+![image](https://user-images.githubusercontent.com/70198995/165825558-5ce951d2-61c4-46e6-8e2a-1a5af570de8a.png)
+### дробь квадратов 2 одинаковых функций тригонометрии
+![image](https://user-images.githubusercontent.com/70198995/165825650-f198ffcc-3cb3-4a37-8677-f2520c1d34e5.png)
+
+
 # № 8, 9, 15
 
 # № 6, 11, 17
