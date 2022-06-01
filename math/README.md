@@ -53,14 +53,103 @@ https://math-ege.sdamgia.ru
 
 
 # № 8, 9, 15
+![image](https://user-images.githubusercontent.com/70198995/165812016-256372d8-82f5-4cb9-a84a-3602bbf71ba4.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165936788-74e03c40-38f0-4674-99f4-91d0940055ad.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165942913-b2926bbc-1d48-4081-99c2-7e302e68d5ce.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165944041-8bba70f4-4e19-4042-8cef-8294062db74a.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165811982-0f67fd0d-f804-4190-b875-9a0c7d589c66.png)
+
+![image](https://user-images.githubusercontent.com/97444278/152985541-0424ca89-78df-4f8e-a16a-28e5a8c1893e.png)
+
+### Выплаты + проценты (x и r одинаковые)
+![image](https://user-images.githubusercontent.com/70198995/165941482-12c49da0-87ef-4b8b-8123-7f44fc845495.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165941542-08325612-0387-4481-8076-26a840cd6941.png)
+
+### Итоговая сумма
+![image](https://user-images.githubusercontent.com/70198995/165941586-998fbe05-d8f3-4a3b-afc7-7def2a31470d.png)
 
 # № 6, 11, 17
+<img src="https://user-images.githubusercontent.com/97444278/149924097-4c7bdda9-fd43-45f9-ba1f-eb4de48513e0.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924109-1f8534c7-edfe-4850-83d4-46fd2e266082.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924121-e6077ba1-da09-40fa-8cd8-d343e2bb8ce5.png" width="300">
+
+![image](https://user-images.githubusercontent.com/70198995/165945158-476394f4-f009-4d74-a201-de68026ddde1.png)
+
+1) вычисляем `а` и `х`
+2) подставляем концы отрезка и считаем `а`
+3) смотрим на граыике что подходит под один корень и делаем ответ отрезком
+
+
+# Первообразная
+![image](https://user-images.githubusercontent.com/70198995/165945982-63360b11-0b44-457d-b81f-09aedbfd5f92.png)
+
+<img src="https://user-images.githubusercontent.com/97444278/149924078-b68927b8-145c-4d6d-bc8b-575b64cae6dc.png" width="400"><img src="https://user-images.githubusercontent.com/97444278/149924135-205a293c-590e-444b-b248-362acefd2ccf.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/97444278/149924013-a9157f08-0239-4722-8ec0-3ce8bad4d63d.png" width="350">
+
+1) Найти производную y'
+2) Приравнять к нулю y' = 0
+3) Начертить график и поставить знаки -> +-
+
+# Значение функции с е<sup>0</sup> - 1
+![image](https://user-images.githubusercontent.com/70198995/166226658-a8768e8c-2c48-41f9-9ad2-ef31a42c9ff8.png)
+
+# Значение функции с `ln(1) = 0`
+![image](https://user-images.githubusercontent.com/70198995/166227820-6eceb847-1e1f-4576-8831-be1b01f2378e.png)
 
 # № 2, 10, 18
 
 # № 7, 3, 16
+![image](https://user-images.githubusercontent.com/70198995/165946118-91e81ce9-26b0-448f-bd94-41e64096d4e7.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165310881-717aee19-5ab5-40e5-abab-e71db1119fb2.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165311061-1f10bb6a-0f9b-413f-9fa5-4b7a4a991b35.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165311213-28e003ef-29cd-4b91-b011-1faae943b59e.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165311310-3ca56cab-e8fe-4210-b480-2af61c28356d.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165311426-0fdbe7cd-9bac-4ce3-9b55-3db3a5df07f2.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165311517-71a304b1-8796-42b1-89a0-27a024fe1f6d.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165311643-cc8a201e-b69f-4112-8ad7-94533a41d609.png)
+
+
+### Теорема синусов
+![image](https://user-images.githubusercontent.com/70198995/163713957-13e5666e-e2d9-45dc-96e7-8dd7ec3db863.png)
+
+### Площадь наименьшего треугольника (квадрат k подобия)
+![image](https://user-images.githubusercontent.com/70198995/163713973-20966cad-bbcc-4d18-9cef-682510e97e3a.png)
+
+### Угол
+Угол между касательной и хордой, проведённой в точку касания = 1/2 дуги (или * 2)
+
+### Боковая сторона трапеции с окружностью
+![image](https://user-images.githubusercontent.com/70198995/163714115-9f15cddc-48e4-427e-bf93-52b009dd0d0c.png)
+
+### Равнобедренный треугольник
+![image](https://user-images.githubusercontent.com/70198995/163714083-99ac3480-1735-4902-bdce-4efbe419149a.png)
+
+### Равносторонний треугольник
+![image](https://user-images.githubusercontent.com/70198995/163714053-1dd24ba3-a450-405c-9a48-402f0dcee7d8.png)
 
 # № 5, 13
+![image](https://user-images.githubusercontent.com/70198995/165827211-8ce56eaa-433d-4470-ac3b-0e2a1078361b.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165828130-0ea225df-5c8d-4084-a1dc-f270486c520c.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165829479-41ea5e17-5d12-49b2-a2db-ba7db6e63ac6.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165832428-137ffa94-dcfb-4f1a-87a0-67ad30193134.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165833032-bc618a37-451f-4ce8-8d07-8d4d9e8d1c10.png)
+
+![image](https://user-images.githubusercontent.com/70198995/165834206-948b1f19-b932-4cc5-b154-96846f440769.png)
 
 | - | -
 | ---- | --- |
